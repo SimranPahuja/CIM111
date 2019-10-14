@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,900');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Raleway:500i');
+
+body{
+  background-color: white;
+}
+
+#name{
+  color: white;
+  background-color: DarkTurquoise;
+  font-family: 'Playfair Display', serif;
+}
+h3{
+  background-color: MediumTurquoise;
+  color: White;
+  font-family: 'Playfair Display', serif;
+}
+.heading4{
+  color: Black;
+  background-color: PaleTurquoise;
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+}
+a{
+  color: Teal;
+  text-decoration: none;
+  font-size: 19px;
+}
+
+}
+a:hover{
+  background-color: LightSkyBlue;
+}
+#add{
+  color: Teal;
+  font-family: 'Raleway', sans-serif;
+}
+
+.specialFont{
+  font-family: 'Raleway', sans-serif;
+}
+.Activities{
+  color: teal;
+  font-family: 'Raleway', sans-serif;
+}
+
+#UMiamiAMA{
+  color:Black;
+  font-size: 19px;
+}
+
+
+#UMiamiDCIE{
+color:Black;
+font-size: 19px;
+
+}
+
+#companywebsite{
+  color: Teal;
+}
+
+
+}
+
+.black{
+  color:black;
+}
+
+ul li{
+  list-style: circle;
+}
+li{
+  color: Teal;
+}
+h5{
+font-family: 'Raleway';
+font-style: italic;
+}
+
+img{
+    border: solid;
+    border-color: Aqua;
+    border-width: 3px;
+}
+#table{
+  color: Teal;
+}
+
+#mynameis{
+  color: teal;
+}
+#Contactme{
+   font-family: 'Raleway', sans-serif;
+  font-size: 16px
+}
