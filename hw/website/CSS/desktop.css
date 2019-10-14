@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css?family=Handlee');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand');
+
+  main{
+    background-color: #fffdc7;
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+  }
+  header{
+      width: 80%;
+      height: auto;
+      background-color: #dfd5e0;
+      margin: 0 auto;
+      text-align: center;
+  }
+
+  footer {
+      font-family: 'Handlee', cursive;
+      font-size: 20px;
+      width: 80%;
+      height: auto;
+      background-color: #dfd5e0;
+      margin: 0 auto;
+      margin-top: -20px;
+  }
+  #maintitle{
+    font-family: 'Handlee', cursive;
+    color: #5F5561;
+    background-color: #e1f095;
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: inherit;
+  }
+  .imagelink {
+    font-family: 'Patrick Hand', cursive;
+    font-style: italic;
+    margin-top: -7px;
+    font-size: 10px;
+    margin-bottom: -1px;
+  }
+  .sectiontitle {
+    font-family: 'Handlee', cursive;
+    background-color: #9ec1f0;
+    color: white;
+    margin-bottom: 20px;
+    font-size: 35px;
+    width: 100px;
+  }
+  .imageGallery {
+
+  }
+  #sect1{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: #f5d1e1;
+    margin-top: -30px;
+    margin-bottom: 10px;
+  }
+  #facegrid1{
+    width: 600px;
+    margin: 0 auto;
+
+      display: grid;
+
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr 1fr;
+
+
+
+  }
+  #facegrid2{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+
+
+      display: grid;
+      grid-template-rows: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-row-gap: 10px;
+      grid-column-gap: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+
+      margin-bottom: 20px;
+      font-family: 'Patrick Hand', cursive;
+
+  }
+  #sect2{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: #f5d1e1;
+    margin-bottom: 10px;
+  }
+  #eyesgrid1{
+    width: 600px;
+    margin: 0 auto;
+
+      display: grid;
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr 1fr;
+
+  }
+  #eyesgrid2{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+
+
+      display: grid;
+      grid-template-rows: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-row-gap: 10px;
+      grid-column-gap: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+
+
+      margin-bottom: 20px;
+      font-family: 'Patrick Hand', cursive;
+  }
+  #sect3{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    background-color: #f5d1e1;
+
+  }
+  #lipsgrid1{
+    width: 600px;
+    margin: 0 auto;
+
+      display: grid;
+      grid-template-rows: 1fr;
+      grid-template-columns: 1fr 1fr;
+    }
+  #lipsgrid2{
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+
+
+      display: grid;
+      grid-template-rows: 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr;
+      grid-row-gap: 10px;
+      grid-column-gap: 10px;
+      padding-left: 10px;
+      padding-right: 10px;
+
+
+      font-family: 'Patrick Hand', cursive;
+  }
+
+  nav{
+    width: 500px;
+    height: 50px;
+    background-color: #dfd5e0;
+    margin: 0 auto;
+  }
+
+  nav ul{
+    margin-left: -30px;
+  }
+  nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding-left: 40px;
+    padding-right: 40px;
+
+    text-align: center;
+    margin-right: 20px;
+  }
+  nav ul li a{
+    font-family: 'Handlee', cursive;
+    text-decoration: none;
+    color: #5F5561;
+    font-size: 30px;
+
+  }
+  nav ul li a:hover{
+    background-color: #ffffff;
+  }
