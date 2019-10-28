@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Interaction Example</title>
+  </head>
+  <body>
+    <h1 id= "colorchange"> Click here to change background color </h1>
+    <h1 id="colorchange2"> Click here to change background color to orange </h1>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.js"> </script>
+    <script type="text/javascript">
+      $(document).ready(function(){
+        //all code goes here
+        $("#colorchange").click(function(){
+
+          $("body").css("background-color", "blue");
+
+        }); //end of colorchange.click
+
+        $("#colorchange2").click(function(){
+
+          $("body").css("background-color", "orange");
+
+      });
+    </script>
+
+
+  </body>
+</html>
