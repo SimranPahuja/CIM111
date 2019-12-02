@@ -1,0 +1,152 @@
+@import "desktop.css";
+nav{
+  width: 100%;
+  margin: 0 auto;
+}
+
+nav ul li{
+  list-style: none;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+
+}
+
+nav ul li a{
+  text-decoration: none;
+  margin: 0 auto;
+  margin-left: -110px;
+}
+
+nav ul li a:hover{
+  background-color: white;
+
+}
+#maintitle{
+  text-align: center;
+  font-size: 30px;
+  font-family: 'Lora', serif;
+  color: #bf263c;
+}
+#intro{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  margin-left: -10px;
+}
+#namaste{
+  text-align: center;
+  font-family: 'Hind', serif;
+  font-size: 20px;
+}
+#question{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+#answer{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 15px;
+}
+.place{
+  width: 90%;
+  margin-left: 0px;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  background-color: #481d24;
+  color: white;
+}
+#delhimap{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+  margin-bottom: 10px;
+}
+iframe{
+  display: block;
+  width: 243.2px;
+}
+#delhi{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+}
+img{
+  width: 243.2px;
+}
+#mumbaimap{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+  margin-bottom: 10px;
+}
+#mumbai{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+
+}
+#labrang{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+  margin-bottom: 10px;
+}
+#rainbowmap{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+  margin-bottom: 10px;
+}
+#mogaomap{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+  margin-bottom: 10px;
+}
+#mingshamap{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+  margin-bottom: 10px;
+}
+#bd{
+  height: auto;
+  font-size: 15px;
+}
+#sd{
+  height: auto;
+  font-size: 15px;
+}
+#ld{
+  height: auto;
+  font-size: 15px;
+}
+#rd{
+  height: auto;
+  font-size: 15px;
+}
+#cd{
+  height: auto;
+  font-size: 15px;
+}
+#md{
+  height: auto;
+  font-size: 15px;
+}
+#packing{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+}
+video{
+  width: 243.2px;
+}
+#characters{
+  display: block;
+  margin: 0 auto;
+  width: 243.2px;
+}

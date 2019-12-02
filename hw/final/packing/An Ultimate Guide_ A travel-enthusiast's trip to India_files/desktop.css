@@ -1,0 +1,343 @@
+@import url('https://fonts.googleapis.com/css?family=Lora:700|Oswald|ZCOOL+XiaoWei');
+header{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+
+}
+nav{
+  width: 100%;
+  height: auto;
+  background-color: #d46026;
+  margin: 0 auto;
+
+}
+
+nav ul{
+  margin: 0 auto;
+  margin-left: 13%;
+}
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 0 auto;
+  text-align: center;
+  /*margin-right: 20px;*/
+}
+nav ul li a{
+  font-family: 'Lora', serif;
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+
+}
+nav ul li a:hover{
+  background-color: #077034;
+}
+#maintitle{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Lora', serif;
+  color: #077034;
+}
+#intro{
+  width: 70%;
+  height: auto;
+  margin: 0 auto;
+
+
+
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 100px;
+
+}
+#namaste{
+  text-align: center;
+  font-family: 'Hind', serif;
+  font-size: 40px;
+}
+#question{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
+}
+#answer{
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+}
+
+#sect1{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#delhimap{
+  margin: 0 auto;
+  display: grid;
+  width: 100%;
+  grid-column-gap: 10px;
+  height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+#sect2{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+#delhi{
+  margin: 0 auto;
+  display: grid;
+  width: 80%;
+  height: auto;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 2fr 2fr 2fr 2fr;
+
+}
+#mumbaimap{
+  margin: 0 auto;
+  display: grid;
+  width: 100%;
+  grid-column-gap: 10px;
+  height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#mumbai{
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-template-columns: 2fr 2fr 2fr;
+}
+#sect3{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+#goldentemple{
+  margin: 0 auto;
+  display: grid;
+  width: 100%;
+  grid-column-gap: 10px;
+  height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#fort{
+  margin: 0 auto;
+  display: grid;
+  width: 100%;
+  grid-column-gap: 10px;
+  height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+#gujarat{
+  margin: 0 auto;
+  display: grid;
+  width: 100%;
+  grid-column-gap: 10px;
+  height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#sect4{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+#packing{
+
+  margin: 0 auto;
+  display: grid;
+  width: 50%;
+  height: auto;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+}
+#suggestion{
+  margin-top: -5px;
+}
+#sect5{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+.gallery{
+  margin: 0 auto;
+  width: 80%;
+  height: auto;
+}
+#characters{
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+
+
+    display: grid;
+    grid-template-rows:  1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+
+    grid-column-gap: 10px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.title{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Lora', serif;
+  background-color: #d46026;
+}
+.place{
+  width: 600px;
+  padding-left: 30px;
+  font-size: 30px;
+  font-family: 'Oswald', sans-serif;
+  background-color: #481d24;
+  color: white;
+}
+#explore{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 25px;
+  color: #481d24;
+  margin-top: -20px;
+}
+#outside{
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: #481d24;
+  margin-top: -10px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/*#section4{
+  padding-left: 20px;
+}*/
+#bd{
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+  color: black;
+  background-color: #eaed91;
+  height: 225px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#sd{
+  font-family: 'Oswald', sans-serif;
+  font-size: 19px;
+  color: black;
+  background-color:#eaed91;
+  height: 225px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#ld{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: black;
+  background-color: #eaed91;
+  height: 225px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#rd{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: black;
+  background-color: #eaed91;
+  height: 225px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#cd{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: black;
+  background-color: #eaed91;
+  height: 225px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+#md{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: black;
+  background-color: #eaed91;
+  height: 225px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.q{
+  font-family: 'Lora', serif;
+  color: #077034;
+  padding-left: 20px;
+  font-size: 20px;
+}
+.a{
+  font-family: 'Oswald', sans-serif;
+  padding-left: 30px;
+  color: #000000;
+  font-size: 18px;
+}
+#mandarin{
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px;
+  margin-top: -10px;
+  margin-bottom: 10px;
+  color: #000000;
+}
+.topic{
+  font-family: 'Lora', serif;
+  font-size: 30px;
+  color: #077034;
+}
+#g1, #g2, #g3, #g4, #g5, #s1, #s2, #s3, #h1, #h2{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+#toggleg1, #toggleg2, #toggleg3, #toggleg4, #toggleg5, #toggles1, #toggles2, #toggles3, #toggleh1, #toggleh2{
+  font-family: 'hind', serif;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.return{
+  margin: 0 auto;
+  margin-right: 10px;
+  background-color: black;
+  width: 150px;
+  text-align: center;
+}
+.return a{
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+  color: white;
+}
+.return a:hover{
+  background-color: #077034;
+}
