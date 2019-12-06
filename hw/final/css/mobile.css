@@ -6,7 +6,7 @@ nav{
 
 nav ul li{
   list-style: none;
-  width: 100%;
+  width: 90%;
   margin: 0 auto;
   display: block;
 
@@ -15,18 +15,18 @@ nav ul li{
 nav ul li a{
   text-decoration: none;
   margin: 0 auto;
-  margin-left: -110px;
+  margin-left: -100px;
 }
 
 nav ul li a:hover{
-  background-color: white;
+  background-color: #077034;
 
 }
 #maintitle{
   text-align: center;
-  font-size: 30px;
+  font-size: 40px;
   font-family: 'Lora', serif;
-  color: #bf263c;
+  color: #077034;
 }
 #intro{
   width: 100%;
@@ -42,7 +42,7 @@ nav ul li a:hover{
 #question{
   text-align: center;
   font-family: 'Oswald', sans-serif;
-  font-size: 15px;
+  font-size: 20px;
 }
 #answer{
   width: 80%;
@@ -53,21 +53,22 @@ nav ul li a:hover{
 }
 .place{
   width: 90%;
-  margin-left: 0px;
+  margin-left: 10px;
   font-size: 30px;
   font-family: 'Oswald', sans-serif;
   background-color: #481d24;
   color: white;
+  text-align: center;
 }
 #delhimap{
   display: block;
   margin: 0 auto;
-  width: 243.2px;
+  width: 90%;
   margin-bottom: 10px;
 }
 iframe{
   display: block;
-  width: 243.2px;
+  width: 100%;
 }
 #delhi{
   display: block;
@@ -80,7 +81,7 @@ img{
 #mumbaimap{
   display: block;
   margin: 0 auto;
-  width: 243.2px;
+  width: 90%;
   margin-bottom: 10px;
 }
 #mumbai{
@@ -92,27 +93,22 @@ img{
 #goldentemple{
   display: block;
   margin: 0 auto;
-  width: 243.2px;
+  width: 90%;
   margin-bottom: 10px;
 }
 #fort{
   display: block;
   margin: 0 auto;
-  width: 243.2px;
+  width: 90%;
   margin-bottom: 10px;
 
 }
 #gujarat{
   display: block;
   margin: 0 auto;
-  width: 243.2px;
+  width: 90%;
   margin-bottom: 10px;
-}
-#ganges{
-  display: block;
-  margin: 0 auto;
-  width: 243.2px;
-  margin-bottom: 10px;
+
 }
 #bd{
   height: auto;
@@ -142,10 +138,9 @@ img{
   display: block;
   margin: 0 auto;
   width: 243.2px;
+
 }
-video{
-  width: 243.2px;
-}
+
 #characters{
   display: block;
   margin: 0 auto;
